@@ -1,0 +1,5 @@
+*.o
+wk_run
+*.txt
+/ko
+/multi-core

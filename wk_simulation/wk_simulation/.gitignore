@@ -1,0 +1,6 @@
+/func_layer_output_linear
+/lib
+/x64
+*.vcxproj
+*.filters
+*.user
